@@ -7,7 +7,7 @@ output:
   revealjs::revealjs_presentation:
 
     self_contained: false
-    css: /Users/ymattu/dotfiles/.R/.library/ymattuR/for_revealjs.css
+    css: for_revealjs.css
     transition: convex
     theme: sky
     highlight: kate
