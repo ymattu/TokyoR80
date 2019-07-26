@@ -2,7 +2,7 @@
 title: "初心者セッション 2 <br> データハンドリング編"
 subtitle: ""
 author: ""
-date: "`r format(Sys.time(),'%Y/%m/%d')` Tokyo.R #79"
+date: "2019/7/27 Tokyo.R #80"
 output:
   revealjs::revealjs_presentation:
 
@@ -234,7 +234,9 @@ dat_tidy %>%
 ## tidyr (これまで) {#tidyr}
 ![gather_spread](slide_img/gather_spread.png)
 
-## これだけではなくなるよ、<br> という話は応用セッションにて... {#furi}
+## これだけではなくなるよ
+詳しくは [Tokyo.R #79 の応用セッション](https://speakerdeck.com/yutannihilation/tidyr-pivot ) を参照。
+
 
 # dplyr {nowdplyr}
 
