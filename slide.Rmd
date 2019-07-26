@@ -238,7 +238,7 @@ dat_tidy %>%
 詳しくは [Tokyo.R #79 の応用セッション](https://speakerdeck.com/yutannihilation/tidyr-pivot ) を参照。
 
 
-# dplyr {nowdplyr}
+# dplyr {#nowdplyr}
 
 # 本日のデータ {#todaysdata}
 ## EC サイトのログデータ {#ecsitedata}
@@ -770,6 +770,6 @@ datlist %>%
 
 ## 本資料について
 - revealjs パッケージで作りました。
-- 以下の URL で公開しています。 <br> https://ymattu.github.io/TokyoR79/slide.html#/
+- 以下の URL で公開しています。 <br> https://ymattu.github.io/TokyoR80/slide.html#/
 
 ## Enjoy! {#enjoy}
